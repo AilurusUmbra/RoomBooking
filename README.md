@@ -1,6 +1,8 @@
 # RoomBooking
 Simple room booking system based on php
 
+## infrastructure
+![](https://i.imgur.com/nqOByrj.png)
 ## entry 
 http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index
 
