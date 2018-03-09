@@ -27,6 +27,7 @@ http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index
   
   
 ## house management
+可點擊 `新增房屋` 登錄房屋資訊。 <br>
 屋主可在此頁面看到自己登錄過的房子。 <br>
 可進入 `房東頁面` 看到自己房子的出租紀錄。<br>
 可進入 `訂房頁面` 看到自己的訂房紀錄。
