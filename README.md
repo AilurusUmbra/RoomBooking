@@ -8,7 +8,6 @@ http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index
 
 ## [login page](http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index.php)
 若有帳號可登入，無帳號可進入[註冊頁面](http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/register.php)
-![](https://i.imgur.com/E2Cchv3.png)
 
 ## [register page](http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/register.php)
 若帳號已被註冊過將會跳出提示：`Register failed.Try another account.` <br>
