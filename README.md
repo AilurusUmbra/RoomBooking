@@ -4,7 +4,7 @@ Simple room booking system based on php
 ## infrastructure
 ![](https://i.imgur.com/nqOByrj.png)
 ## entry 
-http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index
+http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index.php
 
 ## [login page](http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/index.php)
 若有帳號可登入，無帳號可進入[註冊頁面](http://people.cs.nctu.edu.tw/~ysliu2525441/DB_LAB2/register.php)
